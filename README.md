@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dennis-mustafi%c4%87-9237a91a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dennis-mustafi%c4%87-9237a91a1/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dennis-mustafi%c4%87-9237a91a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dennis-mustafi%c4%87-9237a91a1/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/dennismstfc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dennismstfc" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dennismstfc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dennismstfc" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dennismstfc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dennismstfc" height="30" width="40" /></a>
