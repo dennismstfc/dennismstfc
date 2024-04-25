@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dennis</h1>
-<h3 align="center">A student with passion for Machine Learning and Data Science</h3>
 
 - 🌱 I’m currently learning **PyTorch**
 
